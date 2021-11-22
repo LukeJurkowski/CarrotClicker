@@ -9,7 +9,8 @@ That was the only part of the game that was boring, so the programme was made on
 If you are wondering, I've tried to follow the typical MVC design pattern where:
 - Model is the Model
 - UIMain is the View
-- Controller is the Controller
-along with those, there are:
+- Controller is the Controller 
+
+Additionaly there are:
 - 'About' - containing my contact info and how to use the programme
 - 'App' - the class that launches the programme
